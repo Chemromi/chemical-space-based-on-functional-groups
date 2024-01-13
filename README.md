@@ -30,7 +30,7 @@ Here's a brief overview of the command-line arguments you'll be using:
 ### Example Command
 
 ```bash
-python main.py  --mpath m1.csv --vpath v1.csv --input 'c1ccccc1' --lines 'C1=CSC=C1' 'C1=CC=NC=C1' 'CCl' 'CO' 'C1=CC=CC=C1' 'C=O' 'CN' 'CC' --num 5 &This command will generate new molecules by adding hydroxyl (OH) and amino (NH2) groups to the specified initial molecules for 100 iterations.
+python main.py  --mpath m1.csv --vpath v1.csv --input 'c1ccccc1' --lines 'C1=CSC=C1' 'C1=CC=NC=C1' 'CCl' 'CO' 'C1=CC=CC=C1' 'C=O' 'CN' 'CC' --num 5 
 ```
 
 This command will generate new molecules by adding the specified functional groups (thiophene, pyridine, chloromethyl, methoxy, phenyl, carbonyl, methylamine, and methyl groups) to benzene (`'c1ccccc1'`) for 5 iterations. Each iteration will explore the addition of each functional group to the growing set of molecules.
