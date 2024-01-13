@@ -1,8 +1,8 @@
 # Chemical Space Based on Functional Groups Toolkit
 
-Welcome to the Chemical Space Based on Functional Groups Toolkit! This project focuses on expanding the chemical space of molecules by systematically adding functional groups to a set of initial molecules. Our toolkit generates a plethora of novel molecules, which are stored in a CSV file (mcsv), and records molecules differing by a single functional group in another CSV file (vcsv).
+Welcome to the Chemical Space Based on Functional Groups Toolkit! This project focuses on expanding the chemical space of molecules by systematically adding functional groups to a set of initial molecules. Our toolkit generates a plethora of novel molecules, which are stored in a CSV file (mcsv), and each generation process is recorded in another CSV file (vcsv).
 
-中文
+[中文](https://github.com/Chemromi/chemical-space-based-on-functional-groups/blob/main/README_zh.md)
 
 ## Requirements
 
