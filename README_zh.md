@@ -30,7 +30,7 @@
 ### Example Command
 
 ```bash
-python main.py  --mpath m1.csv --vpath v1.csv --input 'c1ccccc1' --lines 'C1=CSC=C1' 'C1=CC=NC=C1' 'CCl' 'CO' 'C1=CC=CC=C1' 'C=O' 'CN' 'CC' --num 5 &This command will generate new molecules by adding hydroxyl (OH) and amino (NH2) groups to the specified initial molecules for 100 iterations.
+python main.py  --mpath m1.csv --vpath v1.csv --input 'c1ccccc1' --lines 'C1=CSC=C1' 'C1=CC=NC=C1' 'CCl' 'CO' 'C1=CC=CC=C1' 'C=O' 'CN' 'CC' --num 5 
 ```
 
 该命令将通过向指定的初始分子（苯` 'c1ccccc1'`）添加指定的官能团（噻吩、吡啶、氯甲基、甲氧基、苯基、羰基、甲胺基和甲基）进行5次迭代来生成新分子。每次迭代都将探索将每个官能团添加到不断增长的分子集中。
