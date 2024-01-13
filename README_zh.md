@@ -37,7 +37,7 @@ python main.py  --mpath m1.csv --vpath v1.csv --input 'c1ccccc1' --lines 'C1=CSC
 
 请将` 'c1ccccc1'` 替换为您的初始分子的SMILES，并将 `--lines` 后面的列表替换为您希望添加的官能团，也使用SMILES。根据需要的生成迭代次数调整 `--num` 参数。
 
-
+![image](https://github.com/Chemromi/chemical-space-based-on-functional-groups/blob/main/image.JPG)
 
 ## Acknowledgments
 
