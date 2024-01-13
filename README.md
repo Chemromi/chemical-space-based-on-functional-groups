@@ -37,7 +37,7 @@ This command will generate new molecules by adding the specified functional grou
 
 Please replace `'c1ccccc1'` with your initial molecule in SMILES notation, and the list after `--lines` with the functional groups you wish to add, also in SMILES notation. Adjust the `--num` parameter to the desired number of generation iterations.
 
-
+![image](https://github.com/Chemromi/chemical-space-based-on-functional-groups/blob/main/image.JPG)
 
 ## Acknowledgments
 
